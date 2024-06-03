@@ -1,4 +1,6 @@
 struct Student{
 
+	char name[50]="";
+	int mark = 12;
 
 };
